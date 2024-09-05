@@ -6,7 +6,7 @@ Built Todo app project built using  React
 ## Screenshots
 
 ### Empty
-![Empty](todo-app/Screenshots/Screenshot%202024-09-05%20135156.png)
+![Empty](Screenshots/Screenshot%202024-09-05%20135156.png)
 ![Home](Event%20Management%20API/Screenshots/Screenshot%202024-08-23%20120557.png)
 
 ### Home
