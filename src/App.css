@@ -1,38 +1,40 @@
-.App {
-  text-align: center;
+/* General styles */
+body {
+  background-color: #f8f9fa;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Header Section */
+.header {
+  background-color: #ff4081; /* Pink color */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+/* Pink button */
+.btn-pink {
+  background-color: #ff4081;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.btn-pink:hover {
+  background-color: #e63974;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Icon styles */
+.text-pink {
+  color: #ff4081;
+}
+
+.text-pink:hover {
+  color: #e63974;
+}
+
+/* Form and list adjustments */
+.form-group,
+.edit-form {
+  display: flex;
+  align-items: center;
+}
+
+.form-group input,
+.edit-form input {
+  flex: 1;
 }
