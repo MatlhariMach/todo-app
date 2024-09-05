@@ -23,6 +23,9 @@ Built Todo app project built using  React
 ### Edit 2
 ![All Entries](Screenshots/Screenshot%202024-09-05%20141713.png)
 
+### Edited
+![All Entries](Screenshots/Screenshot%202024-09-05%20141733.png)
+
 ### Home
 ![Home](Event%20Management%20API/Screenshots/Screenshot%202024-08-23%20120617.png)
 
